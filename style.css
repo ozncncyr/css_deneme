@@ -1,0 +1,58 @@
+.goit2{
+    color: purple;
+}
+.goit2:hover{
+    background-color: black;
+    color: cyan;}
+.goit1{
+    font-size: 20px;
+}
+.test h2{
+    background-color: black;
+    color: white;
+}
+.test h2:hover{
+    background-color: blue;
+    font-size: 40px;
+}
+div #arac{
+    font-size: 25px;
+}
+.social-links:hover{
+    color:darkslategrey;
+}
+.social-links:active {
+    color: red;
+}
+.pelementi{
+    color: red;
+}
+#pidsi {
+    color: blueviolet;
+}
+.kutucuk{
+    background-color: aqua;
+    width: 50%;
+    height: 200px;
+    border: 20px solid red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.kutucuk p{
+    font-weight: 800;
+}
+.kutucuk h1{
+    color: orangered;
+}
+.goit-css{
+    font-size: 25px;
+    text-decoration:wavy;
+    text-transform: lowercase;
+    background-color: cadetblue;
+    line-height: 30px;
+}
+.shadow{
+    color: white;
+    font-size: 40px ;
+    text-shadow: 2px 2px 4px red;
+}
